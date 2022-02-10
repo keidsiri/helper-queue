@@ -18,3 +18,16 @@ Ticket.propTypes = {
 };
 
 export default Ticket;
+
+
+// MyExampleComponent.propTypes = {
+//   exampleArray: PropTypes.array,
+//   exampleBoolean: PropTypes.bool,
+//   exampleFunction: PropTypes.func,
+//   exampleNumber: PropTypes.number,
+//   exampleObject: PropTypes.object,
+//   exampleString: PropTypes.string,
+//   exampleSymbol: PropTypes.symbol,
+//   exampleReactElement: PropTypes.element,
+//   exampleClassTypeProp: PropTypes.instanceOf(ExampleClassName),
+// }
